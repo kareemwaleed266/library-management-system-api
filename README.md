@@ -34,56 +34,39 @@ Built using **Entity Framework Core**, **ASP.NET Identity**, **JWT Authenticatio
 ---
 ## 🧱 Project Structure Overview
 
-### 🔹 Main API Layer (Presentation Layer)
-- **Controllers**  
-  Contains all RESTful API endpoints (e.g., BookController, AccountController).
-  
-- **Middlewares**  
-  Handles cross-cutting concerns like error handling, request logging, and JWT validation.
-
-- **Extensions**  
-  Used to organize service and middleware registrations cleanly into extension methods.
-
-- **Helper**  
-  Contains utility classes such as token generation and encryption methods.
+### **Presentation Layer** – (API)
+- `Controllers/`: RESTful endpoints for HTTP communication  
+- `Middlewares/`: Global error handling, JWT validation  
+- `Extensions/`: Service and middleware setup helpers  
+- `Helper/`: Token creation and encryption utilities
 
 ---
 
-### 🔹 Service Layer (Business Logic)
-Located in the `Library.Service` project:
-- **BookService**  
-  Handles all operations related to books.
-  
-- **UserService**  
-  Manages users and roles.
-
-- **TransactionService**  
-  Handles borrowing and returning operations.
-
-- **TokenService**  
-  Responsible for generating and refreshing JWT tokens.
-
-- **Dtos**  
-  Each service has a nested `Dtos` folder containing Data Transfer Objects to ensure separation from domain models.
+### **Business Layer** – (Services)
+Located in `Library.Service/`:
+- `BookService/`: Business logic for books  
+- `UserService/`: Manages users and roles  
+- `TransactionService/`: Borrow and return operations  
+- `TokenService/`: Handles JWT token creation and refreshing  
+- `Dtos/`: Each service has its own DTOs to decouple data models
 
 ---
 
-### 🔹 Data Access Layer
-- **Library.Repository**  
-  Houses repository classes that abstract the database logic using EF Core.
-
-- **Library.Data**  
-  - `Entities/IdentityEntities`: Contains ASP.NET Identity models (Users, Roles, Claims).
-  - `Migrations`: Entity Framework migration files for database versioning.
+### **Data Access Layer** – (Repositories)
+- `Library.Repository/`: Contains repositories that interact with the database using EF Core
 
 ---
 
-### 🔹 Root Configuration
-- **Program.cs**  
-  The entry point of the application. Configures services, middleware, and app pipeline.
+### **Infrastructure Layer** – (Database & Identity)
+- `Library.Data/`:  
+  - `Entities/IdentityEntities/`: Identity user/role entities  
+  - `Migrations/`: EF Core migration files
 
-- **appsettings.json**  
-  Holds configuration for database connections, JWT tokens, and encryption keys.
+---
+
+### ⚙️ App Entry & Config
+- `Program.cs`: Main app entry point (DI setup, Middleware, App config)  
+- `appsettings.json`: DB connection strings, JWT keys, and app secrets
 
 ---
 
