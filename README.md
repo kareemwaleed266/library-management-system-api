@@ -34,34 +34,29 @@ Built using **Entity Framework Core**, **ASP.NET Identity**, **JWT Authenticatio
 ---
 
 ## 🧱 Project Structure
-
 Library/
-├── Controllers/ → API Endpoints
-├── Middlewares/ → Error handling, auth
-├── Extensions/ → DI & Middleware Config
-├── Helper/ → Token + Encryption Helpers
+├── Controllers/                  # API Endpoints
+├── Middlewares/                 # Error handling, authentication
+├── Extensions/                  # Dependency Injection & Middleware setup
+├── Helper/                      # Token + Encryption utilities
 
 Library.Service/
-├── BookService/ → Book logic
-│ └── Dtos/
-├── UserService/ → User & Role logic
-│ └── Dto/
-├── TokenService/
+├── BookService/                 
+│   └── Dtos/                    # DTOs for Book operations
+├── UserService/
+│   └── Dto/                     # DTOs for User operations
+├── TokenService/                # JWT Token generation
 ├── TransactionService/
-│ └── Dtos/
+│   └── Dtos/                    # DTOs for Transactions
 
-Library.Repository/ → Data Access
+Library.Repository/              # Data Access Layer
 
 Library.Data/
-├── Entites/IdentityEntities/
-├── Migrations/
+├── Entites/IdentityEntities/    # Identity Models
+├── Migrations/                  # EF Core Migrations
 
-Program.cs → Entry Point
-appsettings.json → Config & Secrets
-
-yaml
-Copy
-Edit
+Program.cs                       # Application Entry Point
+appsettings.json                 # App Configuration & Secrets
 
 ---
 
