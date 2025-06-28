@@ -1,0 +1,12 @@
+E:\Kareem\dotnet Projects\Library\Library.Data\bin\Release\net6.0\Library.Data.deps.json
+E:\Kareem\dotnet Projects\Library\Library.Data\bin\Release\net6.0\Library.Data.dll
+E:\Kareem\dotnet Projects\Library\Library.Data\bin\Release\net6.0\Library.Data.pdb
+E:\Kareem\dotnet Projects\Library\Library.Data\obj\Release\net6.0\Library.Data.csproj.AssemblyReference.cache
+E:\Kareem\dotnet Projects\Library\Library.Data\obj\Release\net6.0\Library.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kareem\dotnet Projects\Library\Library.Data\obj\Release\net6.0\Library.Data.AssemblyInfoInputs.cache
+E:\Kareem\dotnet Projects\Library\Library.Data\obj\Release\net6.0\Library.Data.AssemblyInfo.cs
+E:\Kareem\dotnet Projects\Library\Library.Data\obj\Release\net6.0\Library.Data.csproj.CoreCompileInputs.cache
+E:\Kareem\dotnet Projects\Library\Library.Data\obj\Release\net6.0\Library.Data.dll
+E:\Kareem\dotnet Projects\Library\Library.Data\obj\Release\net6.0\refint\Library.Data.dll
+E:\Kareem\dotnet Projects\Library\Library.Data\obj\Release\net6.0\Library.Data.pdb
+E:\Kareem\dotnet Projects\Library\Library.Data\obj\Release\net6.0\ref\Library.Data.dll

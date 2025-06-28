@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Kareem\\dotnet Projects\\Library\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82B40C6B-023B-48FB-A893-4CB6C053C722}|Library.Api.csproj|e:\\kareem\\dotnet projects\\library\\library\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82B40C6B-023B-48FB-A893-4CB6C053C722}|Library.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B40C6B-023B-48FB-A893-4CB6C053C722}|Library.Api.csproj|e:\\kareem\\dotnet projects\\library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B40C6B-023B-48FB-A893-4CB6C053C722}|Library.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B40C6B-023B-48FB-A893-4CB6C053C722}|Library.Api.csproj|e:\\kareem\\dotnet projects\\library\\library\\extensions\\appserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B40C6B-023B-48FB-A893-4CB6C053C722}|Library.Api.csproj|solutionrelative:extensions\\appserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B40C6B-023B-48FB-A893-4CB6C053C722}|Library.Api.csproj|e:\\kareem\\dotnet projects\\library\\library\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B40C6B-023B-48FB-A893-4CB6C053C722}|Library.Api.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B40C6B-023B-48FB-A893-4CB6C053C722}|Library.Api.csproj|e:\\kareem\\dotnet projects\\library\\library\\extensions\\identityservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B40C6B-023B-48FB-A893-4CB6C053C722}|Library.Api.csproj|solutionrelative:extensions\\identityservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FB2876-AABC-41B3-A987-82F0E4C0A2A4}|..\\Library.Service\\Library.Service.csproj|e:\\kareem\\dotnet projects\\library\\library.service\\library.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E49B10B-3C2F-46C9-AA15-96AF9364E144}|..\\Library.Repository\\Library.Repository.csproj|e:\\kareem\\dotnet projects\\library\\library.repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E49B10B-3C2F-46C9-AA15-96AF9364E144}|..\\Library.Repository\\Library.Repository.csproj|e:\\kareem\\dotnet projects\\library\\library.repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B40C6B-023B-48FB-A893-4CB6C053C722}|Library.Api.csproj|e:\\kareem\\dotnet projects\\library\\library\\library.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82B40C6B-023B-48FB-A893-4CB6C053C722}|Library.Api.csproj|solutionrelative:library.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC60D5CD-8B04-4B98-B0B2-EFAC9D253408}|..\\Library.Data\\Library.Data.csproj|e:\\kareem\\dotnet projects\\library\\library.data\\context\\librarymanagementsystemidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC60D5CD-8B04-4B98-B0B2-EFAC9D253408}|..\\Library.Data\\Library.Data.csproj|e:\\kareem\\dotnet projects\\library\\library.data\\entites\\bookentites\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC60D5CD-8B04-4B98-B0B2-EFAC9D253408}|..\\Library.Data\\Library.Data.csproj|e:\\kareem\\dotnet projects\\library\\library.data\\context\\librarymanagementsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC60D5CD-8B04-4B98-B0B2-EFAC9D253408}|..\\Library.Data\\Library.Data.csproj|e:\\kareem\\dotnet projects\\library\\library.data\\configuration\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC60D5CD-8B04-4B98-B0B2-EFAC9D253408}|..\\Library.Data\\Library.Data.csproj|e:\\kareem\\dotnet projects\\library\\library.data\\configuration\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E49B10B-3C2F-46C9-AA15-96AF9364E144}|..\\Library.Repository\\Library.Repository.csproj|e:\\kareem\\dotnet projects\\library\\library.repository\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Kareem\\dotnet Projects\\Library\\Library\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Kareem\\dotnet Projects\\Library\\Library\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAABgzhoUT3swwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T11:03:53.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Kareem\\dotnet Projects\\Library\\Library\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Kareem\\dotnet Projects\\Library\\Library\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:53:47.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdentityServicesExtensions.cs",
+              "DocumentMoniker": "E:\\Kareem\\dotnet Projects\\Library\\Library\\Extensions\\IdentityServicesExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\IdentityServicesExtensions.cs",
+              "ToolTip": "E:\\Kareem\\dotnet Projects\\Library\\Library\\Extensions\\IdentityServicesExtensions.cs",
+              "RelativeToolTip": "Extensions\\IdentityServicesExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:04:02.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppServiceExtensions.cs",
+              "DocumentMoniker": "E:\\Kareem\\dotnet Projects\\Library\\Library\\Extensions\\AppServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\AppServiceExtensions.cs",
+              "ToolTip": "E:\\Kareem\\dotnet Projects\\Library\\Library\\Extensions\\AppServiceExtensions.cs",
+              "RelativeToolTip": "Extensions\\AppServiceExtensions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:23:27.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Kareem\\dotnet Projects\\Library\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Kareem\\dotnet Projects\\Library\\Library\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:00:29.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Library.Service.csproj",
+              "DocumentMoniker": "E:\\Kareem\\dotnet Projects\\Library\\Library.Service\\Library.Service.csproj",
+              "RelativeDocumentMoniker": "..\\Library.Service\\Library.Service.csproj",
+              "ToolTip": "E:\\Kareem\\dotnet Projects\\Library\\Library.Service\\Library.Service.csproj",
+              "RelativeToolTip": "..\\Library.Service\\Library.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T08:12:20.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "E:\\Kareem\\dotnet Projects\\Library\\Library.Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Library.Repository\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "E:\\Kareem\\dotnet Projects\\Library\\Library.Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\Library.Repository\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:59:20.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\Kareem\\dotnet Projects\\Library\\Library.Repository\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Library.Repository\\Repositories\\GenericRepository.cs",
+              "ToolTip": "E:\\Kareem\\dotnet Projects\\Library\\Library.Repository\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "..\\Library.Repository\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:00:07.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Library.Api.csproj",
+              "DocumentMoniker": "E:\\Kareem\\dotnet Projects\\Library\\Library\\Library.Api.csproj",
+              "RelativeDocumentMoniker": "Library.Api.csproj",
+              "ToolTip": "E:\\Kareem\\dotnet Projects\\Library\\Library\\Library.Api.csproj",
+              "RelativeToolTip": "Library.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T07:51:33.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\Kareem\\dotnet Projects\\Library\\Library.Data\\Entites\\BookEntites\\Book.cs",
+              "RelativeDocumentMoniker": "..\\Library.Data\\Entites\\BookEntites\\Book.cs",
+              "ToolTip": "E:\\Kareem\\dotnet Projects\\Library\\Library.Data\\Entites\\BookEntites\\Book.cs",
+              "RelativeToolTip": "..\\Library.Data\\Entites\\BookEntites\\Book.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:45:43.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibraryManagementSystemIdentityDbContext.cs",
+              "DocumentMoniker": "E:\\Kareem\\dotnet Projects\\Library\\Library.Data\\Context\\LibraryManagementSystemIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Library.Data\\Context\\LibraryManagementSystemIdentityDbContext.cs",
+              "ToolTip": "E:\\Kareem\\dotnet Projects\\Library\\Library.Data\\Context\\LibraryManagementSystemIdentityDbContext.cs",
+              "RelativeToolTip": "..\\Library.Data\\Context\\LibraryManagementSystemIdentityDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:45:37.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibraryManagementSystemDbContext.cs",
+              "DocumentMoniker": "E:\\Kareem\\dotnet Projects\\Library\\Library.Data\\Context\\LibraryManagementSystemDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Library.Data\\Context\\LibraryManagementSystemDbContext.cs",
+              "ToolTip": "E:\\Kareem\\dotnet Projects\\Library\\Library.Data\\Context\\LibraryManagementSystemDbContext.cs",
+              "RelativeToolTip": "..\\Library.Data\\Context\\LibraryManagementSystemDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:45:34.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionConfiguration.cs",
+              "DocumentMoniker": "E:\\Kareem\\dotnet Projects\\Library\\Library.Data\\Configuration\\TransactionConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\Library.Data\\Configuration\\TransactionConfiguration.cs",
+              "ToolTip": "E:\\Kareem\\dotnet Projects\\Library\\Library.Data\\Configuration\\TransactionConfiguration.cs",
+              "RelativeToolTip": "..\\Library.Data\\Configuration\\TransactionConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:45:27.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "E:\\Kareem\\dotnet Projects\\Library\\Library.Data\\Configuration\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\Library.Data\\Configuration\\BookConfiguration.cs",
+              "ToolTip": "E:\\Kareem\\dotnet Projects\\Library\\Library.Data\\Configuration\\BookConfiguration.cs",
+              "RelativeToolTip": "..\\Library.Data\\Configuration\\BookConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:45:22.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\Kareem\\dotnet Projects\\Library\\Library.Repository\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Library.Repository\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "E:\\Kareem\\dotnet Projects\\Library\\Library.Repository\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\Library.Repository\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAgwIEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:00:10.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
